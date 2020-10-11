@@ -1,0 +1,2 @@
+# https://github.com/TardivelMarieDev
+Snake game using Canvas and Javascript made for the Udemy course "Formation Complète de Développeur Web" by John Taieb (Codeur) https://www.udemy.com/course/formation-developpeur-web/
